@@ -1,5 +1,8 @@
 {
     "python.pythonPath": "C:\\Users\\Yu\\.virtualenvs\\ec2-2hifzL_i\\Scripts\\python.exe",
     "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "cSpell.words": [
+        "mamazon"
+    ]
 }
